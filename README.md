@@ -1,6 +1,10 @@
-# DS-Practicals
-DS Practicals for reference.
-https://drive.google.com/drive/folders/13wjWTKu2xnpYOmkt-EapEZFJl5LlQcJR?usp=drive_link
+# BE Practicals
 
-Renamed 
-https://drive.google.com/drive/folders/182C0XrCEamF8RX0STcmyym94kj3ef3IM?usp=drive_link
+ML
+https://drive.google.com/drive/folders/19UBhFIFgLuYa9pztB01fZWNTSlfiTn2k?usp=sharing
+
+DMV
+https://drive.google.com/drive/folders/1DofLIX5UA1FjbuECHSkktSi_Gfv9JXMx?usp=drive_link
+
+IR 
+https://drive.google.com/drive/folders/1_Fn1eFi7eUek4IhQd6RndJsDtNX9Ql6m?usp=drive_link
